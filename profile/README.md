@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/zap-kit/zap/main/logo.svg" alt="" width="72">
+
 **Zap** is a fast, compiled programming language.
 
 - **No garbage collector.** Ownership and borrowing free memory at known points.
