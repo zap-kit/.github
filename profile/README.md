@@ -10,6 +10,4 @@
 
 | Repository | What it is |
 |---|---|
-| [zap](https://github.com/zap-kit/zap) | The language: compiler, runtime, standard library, tests and specification |
-| [zap-engine](https://github.com/zap-kit/zap-engine) | A 2D, 2.5D and 3D engine over Vulkan 1.3 and Direct3D 12 |
-| [zap-projects](https://github.com/zap-kit/zap-projects) | Programs built on the engine: a Super Mario 64 rewrite, a voxel world, a graphics lab and two MMOs |
+| [zap](https://github.com/zap-kit/zap) | The language (compiler, runtime, standard library, tests and specification), its engine over Vulkan 1.3 and Direct3D 12, and the programs built on it: a Super Mario 64 rewrite, a voxel world, a graphics lab and two MMOs |
